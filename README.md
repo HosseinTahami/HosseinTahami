@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">Hi 👋, I'm Hossein Tahami</h1>
 <h3 align="center">A passionate backend developer from Iran</h3>
 
@@ -14,7 +15,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="." height="30" width="40" /></a>
@@ -50,3 +51,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hosseintahami&" alt="hosseintahami" /></p>
 
+-->
