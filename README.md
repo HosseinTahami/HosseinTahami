@@ -77,6 +77,5 @@
 
 ## 🔥 Visitor Count
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=HosseinTahami&icon=3&color=1" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=HosseinTahami&icon=3&color=1)](https://visitcount.itsvg.in)
+
