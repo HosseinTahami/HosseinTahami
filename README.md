@@ -5,7 +5,7 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://instagram.com/hosseintahamii"> <a href="https://instagram.com/hosseintahamii"> <img src="https://skillicons.dev/icons?i=instagram,gmail,twitter,telegram&theme=light" alt="Instagram" /></a>
+  <a href="https://instagram.com/hosseintahamii"> <a href="https://instagram.com/hosseintahamii"> <img src="https://skillicons.dev/icons?i=instagram,gmail,twitter&theme=light" alt="Instagram" /></a>
 </p>
 
 ---
