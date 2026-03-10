@@ -46,7 +46,7 @@
 ### 📦 Environments & Package Managers
 <p>
   <img align="center" src="https://skillicons.dev/icons?i=anaconda&theme=light" />
-  <img align="center" src="https://avatars.githubusercontent.com/u/115962839?s=48&v=4" alt="uv" />
+  <img align="center" src="https://img.shields.io/badge/uv-Fast_Python_Manager-2A2A2A?style=for-the-badge&logo=python&logoColor=white" alt="uv" />
 </p>
 
 ### 🖥️ Operating Systems
@@ -74,11 +74,11 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HosseinTahami&theme=radical&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HosseinTahami&theme=radical&show_icons=true&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HosseinTahami&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HosseinTahami&theme=radical&hide_border=false" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HosseinTahami&theme=radical&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HosseinTahami&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
@@ -86,7 +86,9 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HosseinTahami&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=HosseinTahami&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
@@ -94,5 +96,5 @@
 ## 🔥 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HosseinTahami&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHosseinTahami&count_bg=%23FF4B82&title_bg=%231A1B27&icon=&icon_color=%23E7E7E7&title=Profile+Views+%28Today+%2F+Total%29&edge_flat=false" alt="Profile Views" />
 </p>
