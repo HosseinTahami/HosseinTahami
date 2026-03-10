@@ -28,7 +28,9 @@
 
 ### 🧠 AI, ML & Data Science
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,numpy,pandas,anaconda&theme=light" />
+  <img align="center" src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn&theme=light" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
 </p>
 
 ### ⚙️ Backend & APIs
@@ -41,9 +43,20 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,rabbitmq&theme=light" />
 </p>
 
-### 🐳 DevOps, OS & Infrastructure
+### 📦 Environments & Package Managers
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,gitlab&theme=light" />
+  <img align="center" src="https://skillicons.dev/icons?i=anaconda&theme=light" />
+  <img align="center" src="https://img.shields.io/badge/uv-Fast_Python_Manager-2A2A2A?style=for-the-badge&logo=python&logoColor=white" alt="uv" />
+</p>
+
+### 🖥️ Operating Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu&theme=light" />
+</p>
+
+### 🐳 DevOps & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab&theme=light" />
 </p>
 
 ### 🛠️ IDEs & Workflows
