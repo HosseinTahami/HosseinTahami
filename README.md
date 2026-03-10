@@ -1,81 +1,51 @@
 <h1 align="center">Hi 👋, I'm Hossein Tahami</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Python+Developer;ML+Engineer;Backend+Enthusiast" alt="Typing SVG" />
+</p>
+
 ---
 
-## 🌐 Connect with Me
+### 🧑‍💻 About Me
+- 🔭 I’m currently working on **Scalable Backend Systems**
+- 🧠 Learning more about **Deep Learning and Computer Vision**
+- 💬 Ask me about **Django, FastAPI, or ML workflows**
+- 📫 Reach me at: **[Your Email Here]**
 
+---
+
+### 🛠️ Tech Stack
+
+| Category | Icons |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,matlab,javascript,c,cpp&theme=light" /> |
+| **Back-End** | <img src="https://skillicons.dev/icons?i=django,fastapi,mysql,postgres,redis,rabbitmq" /> |
+| **ML / Data Science** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,anaconda" /> |
+| **Front-End** | <img src="https://skillicons.dev/icons?i=html,css,bootstrap" /> |
+| **Tools & DevOps** | <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,postman,vscode,pycharm" /> |
+
+---
+
+### 📈 GitHub Ecosystem
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HosseinTahami&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HosseinTahami&theme=dark&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HosseinTahami&theme=dark" />
+</p>
+
+---
+
+### 🌐 Connect with Me
 <p align="left">
-  <a href="https://instagram.com/hosseintahamii"> <a href="https://instagram.com/hosseintahamii"> <img src="https://skillicons.dev/icons?i=instagram,gmail,twitter&theme=light" alt="Instagram" /></a>
+  <a href="https://instagram.com/hosseintahamii">
+    <img src="https://skillicons.dev/icons?i=instagram,twitter,linkedin,gmail&theme=light" />
+  </a>
 </p>
 
----
-
-## 💻 Tech Stack
-
-### 🧠 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,matlab,javascript,c,cpp&theme=light" />
+<p align="right">
+  <img src="https://visitcount.itsvg.in/api?id=HosseinTahami&icon=3&color=1" alt="Visitor Count" />
 </p>
-
-### Front-End
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
-</p>
-
-### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi" />
-
-### 🧪 Data Science & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn&theme=light" />
-</p>
-
-### 🗄️ Databases & Queues
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis&theme=light" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq&theme=light" />
-</p>
-
-### IDE & Editors
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,clion,sublime&theme=light" />
-</p>
-
-
-
-### 🧰 DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,postman,git,github,gitlab,notion&theme=light" />
-</p>
-
-### 📦 Dependency & Environment
-<p>
-  <img src="https://skillicons.dev/icons?i=anaconda&theme=light" />
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HosseinTahami&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HosseinTahami&theme=dark&hide_border=false" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HosseinTahami&theme=dark&hide_border=false&layout=compact" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HosseinTahami&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-## 🔥 Visitor Count
-
-[![](https://visitcount.itsvg.in/api?id=HosseinTahami&icon=3&color=1)](https://visitcount.itsvg.in)
-
