@@ -73,7 +73,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=HosseinTahami&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+  <img src="https://github-profile-trophy.vercel.app/?username=HosseinTahami&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -81,5 +81,5 @@
 ## 🔥 Profile Views
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/HosseinTahami/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=HosseinTahami&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
 </p>
