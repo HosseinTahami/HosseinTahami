@@ -46,7 +46,7 @@
 ### 📦 Environments & Package Managers
 <p>
   <img align="center" src="https://skillicons.dev/icons?i=anaconda&theme=light" />
-  <img align="center" src="https://img.shields.io/badge/uv-Fast_Python_Manager-2A2A2A?style=for-the-badge&logo=python&logoColor=white" alt="uv" />
+  <img align="center" src="https://avatars.githubusercontent.com/u/115962839?s=48&v=4" alt="uv" />
 </p>
 
 ### 🖥️ Operating Systems
