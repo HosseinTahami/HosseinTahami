@@ -39,7 +39,7 @@
 
 ### IDE & Editors
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,sublime&theme=light" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,clion,sublime&theme=light" />
 </p>
 
 
