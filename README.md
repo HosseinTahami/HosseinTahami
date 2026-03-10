@@ -26,7 +26,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=django,fastapi" />
 
-### 🧪 Data & Machine Learning
+### 🧪 Data Science & Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn&theme=light" />
 </p>
