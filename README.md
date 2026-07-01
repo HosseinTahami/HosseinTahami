@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Hossein Tahami!</h1>
 
 <p align="center">
-  <b>Welcome to my GitHub! I build robust backend systems, train machine learning models, and drink way too much coffee. ☕</b>
+  <b>Welcome to my GitHub! I build robust backend systems, train machine learning models and take too many espresso shots.</b>
 </p>
 
 ---
