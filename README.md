@@ -5,12 +5,16 @@
 </p>
 
 <p align="center">
+  <a href="https://hosseintahami.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:hosseintahami2000@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/HosseinTahami"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <!-- ⚠️ Replace YOUR_LINKEDIN above with your actual LinkedIn handle before publishing -->
+<!-- Dropped the GitHub badge: you're already on GitHub reading this, so it's a dead-end link on a GitHub profile page -->
+<!-- Added your portfolio site instead, since that was missing entirely -->
+<!-- Verify https://hosseintahami.github.io/ is your live Pages URL, not just the repo name -->
+
 
 ---
 
@@ -99,9 +103,25 @@ manual memory, interrupt, and peripheral management.
 
 ### GitHub Stats
 
+<!--
+  anuraghazra/github-readme-stats (the original service) is now archived/
+  unmaintained, which is why these cards were blank before. Swapped to
+  github-stats-extended.vercel.app, the actively maintained successor.
+
+  Preview both image URLs directly in a browser before pushing:
+    https://github-stats-extended.vercel.app/api?username=HosseinTahami&theme=radical
+    https://github-stats-extended.vercel.app/api/top-langs?username=HosseinTahami&theme=radical
+
+  If either still doesn't render, the most reliable fallback is
+  self-hosting your own instance on Vercel (fork the repo, deploy,
+  swap the domain below to your own deployment) — third-party public
+  instances of these cards are inherently rate-limited and can go down
+  without warning, no matter which fork you use.
+-->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HosseinTahami&theme=radical&hide_border=true&show_icons=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HosseinTahami&theme=radical&hide_border=true&layout=compact&langs_count=6" height="165" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=HosseinTahami&theme=radical&hide_border=true&show_icons=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=HosseinTahami&theme=radical&hide_border=true&layout=compact&langs_count=6" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
