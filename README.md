@@ -1,119 +1,111 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=230&section=header&text=Hossein%20Tahami&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Machine%20Learning%20Engineer&descAlignY=58&descAlign=50" width="100%" />
-
-<h1 align="center">Hi 👋, I'm Hossein Tahami!</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=200&section=header&text=Hossein%20Tahami&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20Backend%20%7C%20Agentic%20AI%20Systems&descAlignY=58&descAlign=50&descSize=18" width="100%" />
 
 <p align="center">
-  <b>Welcome to my GitHub! I build robust backend systems, train machine learning models, and take too many espresso shots.</b>
+  MSc Computer Engineering (AI & Data Analysis) · Politecnico di Torino
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HosseinTahami&label=Profile%20Views&color=FF4B82&style=flat" alt="Profile Views" />
+  <a href="mailto:hosseintahami2000@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/HosseinTahami"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+<!-- ⚠️ Replace YOUR_LINKEDIN above with your actual LinkedIn handle before publishing -->
+
+---
+
+### About
+
+I build machine learning systems and backend infrastructure, with a current focus on
+**agentic LLM architectures** — multi-agent orchestration, RAG pipelines, and tool-using
+systems. Background spans classical ML (generative and discriminative classifiers,
+model evaluation and calibration), embedded/systems programming, and full-stack backend
+development. Currently looking toward **research opportunities and a thesis abroad**
+in ML systems, agent reliability, and evaluation.
+
+---
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Fingerprint Spoofing Detection](https://github.com/HosseinTahami/REPO_NAME)**
+Comparative study of generative and discriminative classifiers (MVG, logistic
+regression, SVM, GMM) for biometric spoofing detection, with full decision-theoretic
+evaluation, score calibration, and fusion. All models implemented from scratch in
+NumPy/SciPy.
+`Python` `NumPy` `SciPy` `ML Theory`
+
+</td>
+<td width="50%" valign="top">
+
+**[AROL Fleet Management Platform](https://github.com/HosseinTahami/REPO_NAME)**
+Full-stack multi-agent AI system for industrial fleet management, built with AROL
+S.p.A. Four specialized LLM agents orchestrated via LangGraph, RAG over equipment
+manuals with pgvector, and a Django/React full stack.
+`Django` `React` `LangGraph` `pgvector`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Transformer from Scratch](https://github.com/HosseinTahami/REPO_NAME)**
+PyTorch reimplementation of the Transformer architecture from the original paper,
+built to develop a first-principles understanding of attention mechanisms.
+`PyTorch` `Deep Learning`
+
+</td>
+<td width="50%" valign="top">
+
+**[Bare-Metal Tetris (ARM Cortex-M3)](https://github.com/HosseinTahami/REPO_NAME)**
+Tetris implementation running directly on ARM Cortex-M3 hardware in C, with no OS —
+manual memory, interrupt, and peripheral management.
+`C` `Embedded Systems`
+
+</td>
+</tr>
+</table>
+
+<!-- ⚠️ Replace REPO_NAME in each link above with the actual repository name -->
+
+---
+
+### Tech Stack
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,matlab&theme=dark" />
+</p>
+
+**Machine Learning & Data**
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+</p>
+
+**Backend & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,postgres,mysql,redis&theme=dark" />
+</p>
+
+**Tools & Infrastructure**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,pycharm&theme=dark" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🔭 I'm currently building **agentic AI systems** — multi-agent LLM frameworks, RAG pipelines, and tool-using chatbots.
-- 🌱 Deepening my work with **local LLM inference**, **vector search**, and clean **FastAPI** backend architecture.
-- 💬 Ask me about **Python**, **backend design**, or **machine learning**.
-- ⚡ Fun fact: most of my commits are fueled by espresso.
-
----
-
-## 🌐 Connect with Me
+### GitHub Stats
 
 <p align="center">
-  <a href="https://instagram.com/hosseintahamii"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
-</p>
-
----
-
-## 💻 Tech Stack & Tools
-
-### 🐍 Core Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,matlab&theme=dark" />
-</p>
-
-### 🧠 AI, ML & Data Science
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn&theme=dark" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
-</p>
-
-### ⚙️ Backend & APIs
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi&theme=dark" />
-</p>
-
-### 🗄️ Databases & Message Brokers
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,rabbitmq&theme=dark" />
-</p>
-
-### 📦 Environments & Package Managers
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" height="48" />
-  <img src="https://img.shields.io/badge/uv-Fast_Python_Manager-2A2A2A?style=for-the-badge&logo=uv&logoColor=DE5FE9" alt="uv" />
-</p>
-
-### 🖥️ Operating Systems
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu&theme=dark" />
-</p>
-
-### 🐳 DevOps & Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab&theme=dark" />
-</p>
-
-### 🛠️ IDEs & Workflows
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,clion,sublime,postman,notion&theme=dark" />
-</p>
-
-### 🎨 Frontend (When I have to!)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" />
-</p>
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HosseinTahami&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=HosseinTahami&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HosseinTahami&theme=radical&hide_border=true&show_icons=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HosseinTahami&theme=radical&hide_border=true&layout=compact&langs_count=6" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HosseinTahami&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=HosseinTahami&label=Profile+Views&color=2E3192&style=flat" alt="Profile Views" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=HosseinTahami&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=100&section=footer" width="100%" />
