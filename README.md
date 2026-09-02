@@ -10,10 +10,7 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-<!-- ⚠️ Replace YOUR_LINKEDIN above with your actual LinkedIn handle before publishing -->
-<!-- Dropped the GitHub badge: you're already on GitHub reading this, so it's a dead-end link on a GitHub profile page -->
-<!-- Added your portfolio site instead, since that was missing entirely -->
-<!-- Verify https://hosseintahami.github.io/ is your live Pages URL, not just the repo name -->
+
 
 
 ---
@@ -45,7 +42,7 @@ NumPy/SciPy.
 </td>
 <td width="50%" valign="top">
 
-**[AROL Fleet Management Platform](https://github.com/HosseinTahami/REPO_NAME)**
+**[AROL Fleet Management Platform](https://github.com/HosseinTahami/AROL-Platform)**
 Full-stack multi-agent AI system for industrial fleet management, built with AROL
 S.p.A. Four specialized LLM agents orchestrated via LangGraph, RAG over equipment
 manuals with pgvector, and a Django/React full stack.
