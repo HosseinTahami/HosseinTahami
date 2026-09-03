@@ -53,7 +53,7 @@ manuals with pgvector, and a Django/React full stack.
 <tr>
 <td width="50%" valign="top">
 
-**[Transformer from Scratch](https://github.com/HosseinTahami/REPO_NAME)**
+**[Transformer from Scratch](https://github.com/HosseinTahami/Attention-Is-All-You-Need)**
 PyTorch reimplementation of the Transformer architecture from the original paper,
 built to develop a first-principles understanding of attention mechanisms.
 `PyTorch` `Deep Learning`
@@ -61,7 +61,7 @@ built to develop a first-principles understanding of attention mechanisms.
 </td>
 <td width="50%" valign="top">
 
-**[Bare-Metal Tetris (ARM Cortex-M3)](https://github.com/HosseinTahami/REPO_NAME)**
+**[Bare-Metal Tetris (ARM Cortex-M3)](https://github.com/HosseinTahami/Tetris)**
 Tetris implementation running directly on ARM Cortex-M3 hardware in C, with no OS —
 manual memory, interrupt, and peripheral management.
 `C` `Embedded Systems`
@@ -70,7 +70,6 @@ manual memory, interrupt, and peripheral management.
 </tr>
 </table>
 
-<!-- ⚠️ Replace REPO_NAME in each link above with the actual repository name -->
 
 ---
 
@@ -99,22 +98,6 @@ manual memory, interrupt, and peripheral management.
 ---
 
 ### GitHub Stats
-
-<!--
-  anuraghazra/github-readme-stats (the original service) is now archived/
-  unmaintained, which is why these cards were blank before. Swapped to
-  github-stats-extended.vercel.app, the actively maintained successor.
-
-  Preview both image URLs directly in a browser before pushing:
-    https://github-stats-extended.vercel.app/api?username=HosseinTahami&theme=radical
-    https://github-stats-extended.vercel.app/api/top-langs?username=HosseinTahami&theme=radical
-
-  If either still doesn't render, the most reliable fallback is
-  self-hosting your own instance on Vercel (fork the repo, deploy,
-  swap the domain below to your own deployment) — third-party public
-  instances of these cards are inherently rate-limited and can go down
-  without warning, no matter which fork you use.
--->
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=HosseinTahami&theme=radical&hide_border=true&show_icons=true&count_private=true" height="165" alt="GitHub Stats" />
