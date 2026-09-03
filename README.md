@@ -21,9 +21,7 @@ I build machine learning systems and backend infrastructure, with a current focu
 **agentic LLM architectures** — multi-agent orchestration, RAG pipelines, and tool-using
 systems. Background spans classical ML (generative and discriminative classifiers,
 model evaluation and calibration), embedded/systems programming, and full-stack backend
-development. Currently looking toward **research opportunities and a thesis abroad**
-in ML systems, agent reliability, and evaluation.
-
+development.
 ---
 
 ### Featured Projects
@@ -61,7 +59,7 @@ built to develop a first-principles understanding of attention mechanisms.
 </td>
 <td width="50%" valign="top">
 
-**[Bare-Metal Tetris (ARM Cortex-M3)](https://github.com/HosseinTahami/Tetris)**
+**[Bare-Metal Tetris (ARM Cortex-M3)](https://github.com/HosseinTahami/TetrisGame)**
 Tetris implementation running directly on ARM Cortex-M3 hardware in C, with no OS —
 manual memory, interrupt, and peripheral management.
 `C` `Embedded Systems`
