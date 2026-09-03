@@ -31,7 +31,7 @@ development.**
 <tr>
 <td width="50%" valign="top">
 
-**[Fingerprint Spoofing Detection](https://github.com/HosseinTahami/REPO_NAME)**
+**[Fingerprint Spoofing Detection](https://github.com/HosseinTahami/Fingerprint-Spoofing)**
 Comparative study of generative and discriminative classifiers (MVG, logistic
 regression, SVM, GMM) for biometric spoofing detection, with full decision-theoretic
 evaluation, score calibration, and fusion. All models implemented from scratch in
