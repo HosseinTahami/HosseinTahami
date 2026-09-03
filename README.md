@@ -21,7 +21,7 @@ I build machine learning systems and backend infrastructure, with a current focu
 **agentic LLM architectures** — multi-agent orchestration, RAG pipelines, and tool-using
 systems. Background spans classical ML (generative and discriminative classifiers,
 model evaluation and calibration), embedded/systems programming, and full-stack backend
-development.
+development.**
 ---
 
 ### Featured Projects
