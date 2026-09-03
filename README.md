@@ -22,6 +22,7 @@ I build machine learning systems and backend infrastructure, with a current focu
 systems. Background spans classical ML (generative and discriminative classifiers,
 model evaluation and calibration), embedded/systems programming, and full-stack backend
 development.**
+
 ---
 
 ### Featured Projects
